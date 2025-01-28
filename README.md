@@ -58,16 +58,24 @@ npm start
 
 ### 🌐 **Live Demo**
 (Deployment coming soon...)
-*Once deployed, add the live URL here.*
+
 
 ---
 
-### 🙌 **Contributing**
-Feel free to fork this repository, raise issues, or create pull requests in the future.  
-*Once you're ready to accept contributions, you can add contribution guidelines here (like how to fork the repo and submit pull requests).*
-```
+## Contributing
+
+Thank you for your interest in contributing to this project! While the app is not deployed yet, feel free to fork the repository, raise issues, or create pull requests for improvements.
+
+Once the app is live and contributions are actively accepted, we’ll provide detailed contribution guidelines. These will include steps like forking the repository, creating a feature branch, committing changes, and submitting pull requests.
+
+Stay tuned for updates, and thank you for your enthusiasm to help improve the project!
 
 ---
+### **To Update Later:**
+Once the app is deployed, you can update the **Live Demo** section with the actual URL. Similarly, when you're ready to accept contributions, you can add specific contribution guidelines under this section.
+
+Thank you for your patience and support!
+
 
 ### **To Update Later:**
 Once your app is deployed, you can update the **Live Demo** section with the actual URL. Similarly, when you're ready for contributions, you can add specific contribution guidelines under the **Contributing** section.
