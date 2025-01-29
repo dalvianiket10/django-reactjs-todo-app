@@ -56,6 +56,15 @@ npm start
 
 ---
 
+## Project Screenshots 
+![Add Task]()
+![Task Successfully Added](https://drive.google.com/file/d/1ypAX2egsPJkrc1mhjvo_fU0GXyQwcbZY/view?usp=drive_link)
+![Complete Task/Mark Task](https://drive.google.com/file/d/1BmxO61lmV4nQMLdtFOaAokGzlVF5Z_U_/view?usp=drive_link)
+![Delete Task](https://drive.google.com/file/d/1fDPCZRXyHYG2fUmfufliSdCiw_xyHvB5/view?usp=drive_link)
+![Task Successfully Deleted](https://drive.google.com/file/d/1ffnv9CKo4Y04o6UqQPU5IQvI--B-SNb5/view?usp=drive_link)
+
+---
+
 ### 🌐 **Live Demo**
 (Deployment coming soon...)
 
@@ -75,9 +84,3 @@ Stay tuned for updates, and thank you for your enthusiasm to help improve the pr
 Once the app is deployed, you can update the **Live Demo** section with the actual URL. Similarly, when you're ready to accept contributions, you can add specific contribution guidelines under this section.
 
 Thank you for your patience and support!
-
-
-### **To Update Later:**
-Once your app is deployed, you can update the **Live Demo** section with the actual URL. Similarly, when you're ready for contributions, you can add specific contribution guidelines under the **Contributing** section.
-
-Let me know if you'd like help with any specific steps like setting up deployment or creating contribution guidelines later! 😊
