@@ -56,6 +56,10 @@ npm start
 
 ---
 
+Screenshots  of Project
+
+---
+
 ### 🌐 **Live Demo**
 (Deployment coming soon...)
 
@@ -75,9 +79,3 @@ Stay tuned for updates, and thank you for your enthusiasm to help improve the pr
 Once the app is deployed, you can update the **Live Demo** section with the actual URL. Similarly, when you're ready to accept contributions, you can add specific contribution guidelines under this section.
 
 Thank you for your patience and support!
-
-
-### **To Update Later:**
-Once your app is deployed, you can update the **Live Demo** section with the actual URL. Similarly, when you're ready for contributions, you can add specific contribution guidelines under the **Contributing** section.
-
-Let me know if you'd like help with any specific steps like setting up deployment or creating contribution guidelines later! 😊
