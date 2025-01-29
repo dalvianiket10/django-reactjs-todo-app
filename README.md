@@ -57,11 +57,8 @@ npm start
 ---
 
 ## Project Screenshots 
-![Add Task](https://github.com/dalvianiket10/django-reactjs-todo-app/blob/05ef2040faa7d2d0a4cc70628dd0ace20d26886c/Project%20Screenshots/Add%20Task.png)
-![Task Successfully Added](https://github.com/dalvianiket10/django-reactjs-todo-app/blob/ce6cb2abe6185c327c3ba84a3e5d8b5595c61ae8/Project%20Screenshots/Task%20Added%20Successfully.png)
-![Complete Task/Mark Task](https://github.com/dalvianiket10/django-reactjs-todo-app/blob/e06aa30c1aee3de1c2f2e35cfe75dcf8ee6230b7/Project%20Screenshots/Complete%20Task.png)
-![Delete Task](https://github.com/dalvianiket10/django-reactjs-todo-app/tree/2e240bfc2699b68e555cc2c581726c97bc7e7073/Project%20Screenshots)
-![Task Successfully Deleted]()
+
+![Screenshots](https://github.com/dalvianiket10/django-reactjs-todo-app/tree/2e240bfc2699b68e555cc2c581726c97bc7e7073/Project%20Screenshots)
 
 ---
 
