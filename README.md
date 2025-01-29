@@ -57,7 +57,7 @@ npm start
 ---
 
 ## Project Screenshots 
-![Add Task]("C:\Users\Aniket\Desktop\django-reactjs-todo-app\Project Screenshots\Screenshot 2025-01-29 164921.png"
+![Add Task](C:\Users\Aniket\Desktop\django-reactjs-todo-app\Project Screenshots\Screenshot 2025-01-29 164921.png)
 ![Task Successfully Added](https://drive.google.com/file/d/1ypAX2egsPJkrc1mhjvo_fU0GXyQwcbZY/view?usp=drive_link)
 ![Complete Task/Mark Task](https://drive.google.com/file/d/1BmxO61lmV4nQMLdtFOaAokGzlVF5Z_U_/view?usp=drive_link)
 ![Delete Task](https://drive.google.com/file/d/1fDPCZRXyHYG2fUmfufliSdCiw_xyHvB5/view?usp=drive_link)
