@@ -56,7 +56,12 @@ npm start
 
 ---
 
-Screenshots  of Project
+## Project Screenshots 
+![Add Task](https://drive.google.com/file/d/143uHv1TkZy_EPfj6TzvF44Ump2PjD9Bd/view?usp=drive_link)
+![Task Successfully Added](https://drive.google.com/file/d/1ypAX2egsPJkrc1mhjvo_fU0GXyQwcbZY/view?usp=drive_link)
+![Complete Task/Mark Task](https://drive.google.com/file/d/1BmxO61lmV4nQMLdtFOaAokGzlVF5Z_U_/view?usp=drive_link)
+![Delete Task](https://drive.google.com/file/d/1fDPCZRXyHYG2fUmfufliSdCiw_xyHvB5/view?usp=drive_link)
+![Task Successfully Deleted](https://drive.google.com/file/d/1ffnv9CKo4Y04o6UqQPU5IQvI--B-SNb5/view?usp=drive_link)
 
 ---
 
