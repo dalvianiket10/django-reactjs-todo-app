@@ -18,7 +18,7 @@ A full-stack To-Do application built with **Django** for the backend and **React
 ### 🔧 **Tech Stack**
 - **Backend**: Django, Django REST Framework
 - **Frontend**: React.js
-- **Database**: SQLite (can be switched to PostgreSQL or MySQL)
+- **Database**: SQLite 
 - **API Testing**: Postman (used for testing endpoints)
 - **Version Control**: Git and GitHub
 
